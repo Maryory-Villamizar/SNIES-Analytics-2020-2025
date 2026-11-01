@@ -2,11 +2,11 @@
 
 ## Información académica
 
-**Universidad:** Universidad Pontificia Bolivariana (UPB)  
-**Programa:** Maestría en Ciencia de Datos  
-**Asignatura:** Minería de Datos  
-**Docente:** Ana Oviedo  
-**Elaborado por:** Maryory Patricia Villamizar León  
+**Universidad:** Universidad Pontificia Bolivariana (UPB)
+**Programa:** Maestría en Ciencia de Datos
+**Asignatura:** Minería de Datos
+**Docente:** Ana Oviedo
+**Elaborado por:** Maryory Patricia Villamizar León
 **Año:** 2026
 
 ## Descripción del proyecto
@@ -109,6 +109,6 @@ Período de análisis: 2020–2025.
 
 **Maryory Patricia Villamizar León**
 
-Maestría en Ciencia de Datos  
-Universidad Pontificia Bolivariana – UPB  
+Maestría en Ciencia de Datos
+Universidad Pontificia Bolivariana – UPB
 2026
